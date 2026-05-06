@@ -1,2 +1,4 @@
 # shubham-1stdemo
- my 1st repository
+ This is my first git repository.
+ <br>
+ Author- Shubham Mane
